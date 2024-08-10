@@ -1,0 +1,145 @@
+{
+    "analysis1": {
+        "question": "Number of crashes in which number of males killed are greater than 2?",
+        "result": 0
+    },
+    "analysis2": {
+        "question": "How many two wheelers are booked for crashes?",
+        "result": 757
+    },
+    "analysis3": {
+        "question": "Top 5 Vehicle Makes of the cars present in the crashes in which driver died and Airbags did not deploy",
+        "result": [
+            "CHEVROLET",
+            "FORD",
+            "NISSAN",
+            "INTERNATIONAL",
+            "DODGE"
+        ]
+    },
+    "analysis4": {
+        "question": "Number of Vehicles with driver having valid licences involved in hit and run?",
+        "result": 2504
+    },
+    "analysis5": {
+        "question": "State that has highest number of accidents in which females are not involved?",
+        "result": "Texas"
+    },
+    "analysis6": {
+        "question": "Top 3rd to 5th VEH_MAKE_IDs that contribute to a largest number of injuries including death",
+        "result": [
+            "TOYOTA",
+            "DODGE",
+            "NISSAN"
+        ]
+    },
+    "analysis7": {
+        "question": "Top ethnic user group of each unique body style",
+        "result": [
+            {
+                "VEH_BODY_STYL_ID": "AMBULANCE",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "BUS",
+                "PRSN_ETHNICITY_ID": "BLACK"
+            },
+            {
+                "VEH_BODY_STYL_ID": "FARM EQUIPMENT",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "FIRE TRUCK",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "MOTORCYCLE",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "NA",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "NEV-NEIGHBORHOOD ELECTRIC VEHICLE",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "NOT REPORTED",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "OTHER  (EXPLAIN IN NARRATIVE)",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "PASSENGER CAR, 2-DOOR",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "PASSENGER CAR, 4-DOOR",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "PICKUP",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "POLICE CAR/TRUCK",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "POLICE MOTORCYCLE",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "SPORT UTILITY VEHICLE",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "TRUCK",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "TRUCK TRACTOR",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "UNKNOWN",
+                "PRSN_ETHNICITY_ID": "UNKNOWN"
+            },
+            {
+                "VEH_BODY_STYL_ID": "VAN",
+                "PRSN_ETHNICITY_ID": "WHITE"
+            },
+            {
+                "VEH_BODY_STYL_ID": "YELLOW SCHOOL BUS",
+                "PRSN_ETHNICITY_ID": "BLACK"
+            }
+        ]
+    },
+    "analysis8": {
+        "question": "Among the crashed cars, what are the Top 5 Zip Codes with highest number crashes with alcohols as the contributing factor to a crash (Use Driver Zip Code)",
+        "result": [
+            "78521",
+            "76010",
+            "79936",
+            "79938",
+            "79907"
+        ]
+    },
+    "analysis9": {
+        "question": "Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance",
+        "result": 0
+    },
+    "analysis10": {
+        "question": "Determine the Top 5 Vehicle Makes where drivers are charged with speeding related offences, has licensed Drivers, used top 10 used vehicle colours and has car licensed with the Top 25 states with highest number of offences (to be deduced from the data)",
+        "result": [
+            "FORD",
+            "CHEVROLET",
+            "TOYOTA",
+            "DODGE",
+            "HONDA"
+        ]
+    }
+}
