@@ -23,7 +23,7 @@ The application performs 10 specific analyses:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Configure input/output paths in `config/config.yaml`
 3. Run the application: `spark-submit main.py`
-4. View the results stored in output/analysis_results_(timestamp).json
+4. View the results stored in `output/analysis_results_(timestamp).json`
 
 ## Development 
 - Developed with the use of PySpark DataFrame APIs 
